@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:stacked_flutter/ui/views/home/home_view.dart';
 
 void main() {
+  // setupLocator();
   runApp(const MyApp());
 }
 
@@ -17,4 +18,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
